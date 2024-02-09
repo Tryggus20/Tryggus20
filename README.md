@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm David Campbell</h1>
-<h3 align="center"> About Me
+<h3 align="center"> About Me: </h3>
+<h4>
 I am previously from the world of pharmacy. After around a decade of working in that field, I decided to challenge myself and change career paths to software development. 
 I believe I can bring a new perspective to the industry with my skills in problem solving, customer service, foresight, and attention to detail. 
 
 Let's connect and collaborate on the next big thing!
 
-</h3>
+</h4>
 
 - 🌱 I’m currently learning Firebase creating a new social media platform
 
