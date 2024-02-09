@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center"> About Me: </h3>
 <h4>
 I am previously from the world of pharmacy. After around a decade of working in that field, I decided to challenge myself and change career paths to software development. 
-I believe I can bring a new perspective to the industry with my skills in problem solving, customer service, foresight, and attention to detail. 
-
-Let's connect and collaborate on the next big thing!
+I believe I can bring a new perspective to the industry with my skills in problem solving, customer service, foresight, and attention to detail. Let's connect and collaborate on the next big thing!
 
 </h4>
 
